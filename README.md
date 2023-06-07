@@ -1,6 +1,6 @@
 # Heart-disease-prediction-
-Heart disease prediction  with multiple algorithms
-Annual CDC survey data of 400k adults related to their health status:
+Heart disease prediction  with multiple algorithms.
+
 ### Dataset Description: 
 The original dataset of nearly 300 variables was reduced to just about 18 variables. The dataset contains 18 variables (9 booleans, 5 strings and 4 decimals). In machine learning projects, "HeartDisease" can be used as the explonatory variable, but note that the classes are heavily unbalanced but with Fixing the weights/undersampling should yield significantly betters results. I treat the variable "HeartDisease" as a binary class ("Yes" - respondent had heart disease; "No" - respondent had no heart disease).
 
